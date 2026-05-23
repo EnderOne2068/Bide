@@ -1,0 +1,42 @@
+# Build directories
+build/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled objects
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Executables
+/bide
+/bide.exe
+
+# BCPL compiled files
+*.cint
+*.o1
+*.o2
+*.o3
+
+# macOS
+.DS_Store
+*.xcodeproj/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
